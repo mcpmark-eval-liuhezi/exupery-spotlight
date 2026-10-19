@@ -1,0 +1,43 @@
+{
+  "author": {
+    "name": "Antoine de Saint-Exupéry",
+    "author_key": "OL31901A",
+    "birth_date": "29 June 1900",
+    "death_date": "31 July 1944"
+  },
+  "works": [
+    {
+      "title": "The Little Prince (Le petit prince)",
+      "work_key": "/works/OL10263W",
+      "first_publish_year": 1943,
+      "edition_count": 699
+    },
+    {
+      "title": "Night Flight (Vol de nuit)",
+      "work_key": "/works/OL10267W",
+      "first_publish_year": 1931,
+      "edition_count": 128
+    },
+    {
+      "title": "Wind, Sand and Stars (Terre des hommes)",
+      "work_key": "/works/OL86701W",
+      "first_publish_year": 1936,
+      "edition_count": 124
+    },
+    {
+      "title": "Flight to Arras (Pilote de guerre)",
+      "work_key": "/works/OL10265W",
+      "first_publish_year": 1942,
+      "edition_count": 64
+    }
+  ],
+  "stats": {
+    "earliest_first_publish_year": 1931,
+    "latest_first_publish_year": 1943,
+    "total_edition_count": 1015,
+    "average_editions_per_work": 253.75,
+    "most_editions_work": "The Little Prince (Le petit prince)",
+    "most_editions_work_key": "/works/OL10263W",
+    "most_editions_count": 699
+  }
+}
